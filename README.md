@@ -1,4 +1,6 @@
-﻿# Food-List
+try it here: https://snack.expo.dev/@git/github.com/AkashKalala/Food-List?
+
+# Food-List
 To run this project you need to follow these steps:
   1. Save this folder to your local by downloading or by using <code>git clone</code> .
   2. Use <code>npm install -i</code>  in the folder. (downloads all the required node modules).
