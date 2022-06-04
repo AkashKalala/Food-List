@@ -1,4 +1,4 @@
-try it here: https://snack.expo.dev/@git/github.com/AkashKalala/Food-List?
+Try it here: https://snack.expo.dev/@git/github.com/AkashKalala/Food-List?
 
 # Food-List
 To run this project you need to follow these steps:
